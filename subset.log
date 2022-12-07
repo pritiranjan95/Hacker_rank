@@ -1,0 +1,60 @@
+2022-12-07 11:31:06,743-diff parser start
+2022-12-07 11:31:06,744-line_lengths old: 8; new: 12
+2022-12-07 11:31:06,745--> code[replace] old[1:8] new[1:12]
+2022-12-07 11:31:06,750-parse_part from 1 to 12 (to 11 in part parser)
+2022-12-07 11:31:06,751-diff parser end
+2022-12-07 11:31:08,448-diff parser start
+2022-12-07 11:31:08,449-line_lengths old: 12; new: 12
+2022-12-07 11:31:08,450--> code[equal] old[1:11] new[1:11]
+2022-12-07 11:31:08,451-copy old[1:1] new[1:1]
+2022-12-07 11:31:08,455-parse_part from 2 to 12 (to 11 in part parser)
+2022-12-07 11:31:08,455--> code[replace] old[12:12] new[12:12]
+2022-12-07 11:31:08,455-diff parser end
+2022-12-07 11:32:42,233-diff parser start
+2022-12-07 11:32:42,234-line_lengths old: 12; new: 23
+2022-12-07 11:32:42,235--> code[equal] old[1:11] new[1:11]
+2022-12-07 11:32:42,236-copy old[1:1] new[1:1]
+2022-12-07 11:32:42,244-parse_part from 2 to 23 (to 22 in part parser)
+2022-12-07 11:32:42,244--> code[replace] old[12:12] new[12:23]
+2022-12-07 11:32:42,244-diff parser end
+2022-12-07 11:32:47,755-diff parser start
+2022-12-07 11:32:47,755-line_lengths old: 23; new: 23
+2022-12-07 11:32:47,755--> code[equal] old[1:22] new[1:22]
+2022-12-07 11:32:47,755-copy old[1:1] new[1:1]
+2022-12-07 11:32:47,758-parse_part from 2 to 23 (to 22 in part parser)
+2022-12-07 11:32:47,758--> code[replace] old[23:23] new[23:23]
+2022-12-07 11:32:47,759-diff parser end
+2022-12-07 11:32:49,065-diff parser start
+2022-12-07 11:32:49,066-line_lengths old: 23; new: 23
+2022-12-07 11:32:49,066--> code[equal] old[1:22] new[1:22]
+2022-12-07 11:32:49,066-copy old[1:1] new[1:1]
+2022-12-07 11:32:49,068-parse_part from 2 to 23 (to 22 in part parser)
+2022-12-07 11:32:49,068--> code[replace] old[23:23] new[23:23]
+2022-12-07 11:32:49,068-diff parser end
+2022-12-07 11:33:45,735-diff parser start
+2022-12-07 11:33:45,736-line_lengths old: 23; new: 24
+2022-12-07 11:33:45,736--> code[equal] old[1:22] new[1:22]
+2022-12-07 11:33:45,737-copy old[1:1] new[1:1]
+2022-12-07 11:33:45,742-parse_part from 2 to 24 (to 23 in part parser)
+2022-12-07 11:33:45,742--> code[replace] old[23:23] new[23:24]
+2022-12-07 11:33:45,742-diff parser end
+2022-12-07 11:39:34,421-The list of 'a' is [1]
+2022-12-07 11:39:34,898-The list of 'a' is [1, 2]
+2022-12-07 11:39:37,146-The list of 'b' is [1]
+2022-12-07 11:39:37,802-The list of 'b' is [1, 2]
+2022-12-07 11:39:38,562-The list of 'b' is [1, 2, 3]
+2022-12-07 11:39:38,562-It's not a Subset
+2022-12-07 11:39:59,779-The list of 'a' is [1]
+2022-12-07 11:40:00,327-The list of 'a' is [1, 2]
+2022-12-07 11:40:00,797-The list of 'a' is [1, 2, 3]
+2022-12-07 11:40:04,040-The list of 'b' is [1]
+2022-12-07 11:40:04,739-The list of 'b' is [1, 2]
+2022-12-07 11:40:05,273-The list of 'b' is [1, 2, 3]
+2022-12-07 11:40:09,788-The list of 'b' is [1, 2, 3, 6]
+2022-12-07 11:40:09,788-It's not a Subset
+2022-12-07 11:41:41,332-The list of 'a' is [1, 2]
+2022-12-07 11:41:45,049-The list of 'b' is [1, 2, 3]
+2022-12-07 11:41:45,049-It's not a Subset
+2022-12-07 11:41:50,284-The list of 'a' is [1, 2]
+2022-12-07 11:41:53,600-The list of 'b' is [4, 5, 6, 7]
+2022-12-07 11:41:53,600-It's not a Subset
